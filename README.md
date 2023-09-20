@@ -1,7 +1,6 @@
 <h2><span style="color: rgb(68, 68, 68);">Política Privacidade</span></h2>
 <p><span style="color: rgb(68, 68, 68);">A sua privacidade é importante para nós. É política do app sorteio de números
-        respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no <a href="">frases
-            motivação</a></span></p>
+        respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no <a href="">Sorteio de números</a></span></p>
 <p><span style="color: rgb(68, 68, 68);">Solicitamos informações pessoais apenas quando realmente precisamos delas para
         lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também
         informamos por que estamos coletando e como será usado.</span></p>
@@ -20,7 +19,7 @@
 
 <h3><span style="color: rgb(68, 68, 68);">Compromisso do Usuário</span></h3>
 <p><span style="color: rgb(68, 68, 68);">O usuário se compromete a fazer uso adequado dos conteúdos e da informação que
-        o frases motivação oferece com caráter enunciativo, mas não limitativo:</span></p>
+        o Sorteio de números oferece com caráter enunciativo, mas não limitativo:</span></p>
 <ul>
     <li><span style="color: rgb(68, 68, 68);">A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé
             a à ordem pública;</span></li>
@@ -28,7 +27,7 @@
             jogos de sorte ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos
             humanos;</span></li>
     <li><span style="color: rgb(68, 68, 68);">C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares)
-            do frases motivação, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou
+            do Sorteio de números, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou
             quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente
             mencionados.</span></li>
 </ul>
